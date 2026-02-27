@@ -1,6 +1,6 @@
 # SCE-TakeHome
 
-###Run Code
+### Run Code 
 -To run code, use node finance.js in terminal (make sure npm is installed)\
 -Then, put in parameters, one example being:\
 curl -X POST http://localhost:3000/start-monitoring \
